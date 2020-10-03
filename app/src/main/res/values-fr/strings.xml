@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhotoShow</string>
+    <string name="button_refresh">Récupérer</string>
+    <string name="button_delete">Supprimer</string>
+    <string name="previous_text">Image précédente</string>
+    <string name="next_text">Image suivante</string>
+    <string name="cancel_notif">Annulé, recliquez</string>
+    <string name="wait_notif">Trop rapide ! Patientez</string>
+    <string name="fetching_notif">Chargement...</string>
+    <string name="success_notif">Trouvé!</string>
+</resources>

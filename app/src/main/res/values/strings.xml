@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PhotoShow</string>
+    <string name="button_refresh">Refresh</string>
+    <string name="button_delete">Remove</string>
+    <string name="previous_text">Previous</string>
+    <string name="next_text">Next image</string>
+    <string name="cancel_notif">Cancelled, click again</string>
+    <string name="wait_notif">Too fast! Wait</string>
+    <string name="fetching_notif">Fetching...</string>
+    <string name="success_notif">Fetched!</string>
+</resources>
